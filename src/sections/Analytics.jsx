@@ -4,7 +4,7 @@ import donut from "../assets/images/donut-chart.png";
 
 function Analytics() {
   return (
-    <div className="px-16 py-4 py-20 flex pt-20 gap-12 md:gap-0 flex-col-reverse md:flex-row justify-center md:justify-between bg-[#F9F9F9] my-8">
+    <div className="px-16  py-20 flex pt-20 gap-12 md:gap-0 flex-col-reverse md:flex-row justify-center md:justify-between bg-[#F9F9F9] my-8">
       <div className=" w-full md:w-[45%]">
         <h1 className="font-Poppins text-3xl font-bold text-black py-1 ">
           Analyze your daily, weekly and monthly activity

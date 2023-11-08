@@ -10,7 +10,7 @@ function Features() {
       <h1 className="font-Poppins text-3xl font-bold text-black py-1 ">
         Why Choose Jesco?
       </h1>
-      <p className="text-gray text-lg pt-4 text-center items-center pb-12 w-[40%] font-Poppins font-medium ">
+      <p className="text-gray text-lg pt-4 text-center items-center pb-12 w-[40%] font-Poppins font-medium md:text-sm">
         Lorem ipsum dolor, sit amet consectetur adipisicing elit. Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi.
       </p>
       <div className="px-12 py-4 flex gap-6 flex-wrap justify-center">
