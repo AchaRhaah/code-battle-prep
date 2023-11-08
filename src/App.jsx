@@ -1,7 +1,7 @@
 import React from 'react'
 
 function App() {
-  return <div className="roboto">react app</div>;
+  return <div className="roboto text-green">react app</div>;
 }
 
 export default App
