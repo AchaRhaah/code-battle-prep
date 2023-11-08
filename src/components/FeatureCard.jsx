@@ -4,7 +4,6 @@ function FeatureCard({ icon, text, title, customProp }) {
   return (
     <div className={`${customProp} py-8 rounded-lg w-[90%] md:w-[26%] p-4`}>
       <div className="w-16 h-16 bordeer rounded-full bg-[#F5F5F5]  items-center  flex gap-2 justify-center">
-        {/* <IoRibbonSharp className="text-2xl" /> */}
               {icon}
              
       </div>
